@@ -1,0 +1,35 @@
+body{
+	border: 30px solid rebeccapurple;
+	margin: 0;
+	padding: 20;
+	background: #000;
+	min-height: 1000px;
+	color: white;
+}	
+h1{
+	color: yellow;
+	font-size: 25px;
+	font-weight: bold;
+	text-align:center;
+	background: tomato;
+}
+p.niebieski{
+	color: blue;
+	font-style: italic;
+	text-decoration: underline;
+	line-height: 200%;
+	letter-spacing: 10pxz;
+}
+ol{	
+	list-style-type: upper-roman;
+}
+a:link	{
+	color: green;
+	text-decoration:none;	
+}
+a:visited{
+	color: orange;
+}
+a:hover{
+	color: black;
+}
